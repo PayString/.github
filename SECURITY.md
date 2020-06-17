@@ -1,6 +1,6 @@
 # Vulnerability Disclosure Policy
 
-Security is one of the top priorities at Xpring, and we value the security community. The responsible disclosure of vulnerabilities helps us ensure the security and privacy of users of the project.
+Security is one of the top priorities with PayID, and we value the security community. The responsible disclosure of vulnerabilities helps us ensure the security and privacy of users of the project.
 
 ## Guidelines
 
@@ -12,13 +12,13 @@ We expect all researchers to:
 
 3. Use the identified secure communication channels mentioned below to report vulnerability information to us; and
 
-4. Keep information about any vulnerabilities that you’ve discovered confidential between yourself and Xpring until we’ve had 90 days to resolve the issue.
+4. Keep information about any vulnerabilities that you’ve discovered confidential between yourself and PayID until we’ve had 90 days to resolve the issue.
 
 ## Reporting a security vulnerability
 
 If you believe you’ve discovered a security vulnerability in one of our repositories, please use the following means of communications to report it to us:
 
-Send an email to <a href="mailto:bugs@ripple.com">bugs@ripple.com</a> with subject `[Security Vulnerability] <Brief Description>`.
+Send an email to <a href="mailto:info+bugs@payid.org">info+bugs@payid.org</a> with subject `[Security Vulnerability] <Brief Description>`.
 
 **Please include the following details with your report:**
 
@@ -46,4 +46,4 @@ TODO(https://app.asana.com/0/1143722888069470/1159875324910573): Enable when we 
 
 ## Scope
 
-This policy applies to all public repositories inside of the [xpring-eng GitHub organization](https://github.com/xpring-eng).
+This policy applies to all public repositories inside of the [payid-org GitHub organization](https://github.com/payid-org).
